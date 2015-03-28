@@ -1,0 +1,393 @@
+# The .git folder is a hidden folder where the staging area and commits live
+
+
+#print working directory
+pwd
+
+# Change to the home directory
+cd ~
+
+#help file for command - less
+man less
+
+#/ + word = a search in document
+/git
+
+less
+
+#chaining together two commands
+history | less
+
+history
+git status
+ls
+
+# Open a sublime document in the current directory
+subl .
+
+ls .
+.
+cd leo
+..
+
+#Go up two directories
+cd ../..
+cd ..
+cd IcoMoon\ Icons/
+cd Web\ Projects/
+cd Dropbox
+cd ../
+cd Public
+ls -R
+man ls
+ls -@
+ls -C
+ls -c
+ls -i
+ls -A
+man cd
+man pwd
+ls -tlr
+ls -rl
+ls -r
+ls -rlt
+ls -lt
+ls -l -t
+ls -t -t
+ls -t -l
+ls -l
+ls -t
+cd /
+cd
+
+#What version of Git are you running?
+git --version
+
+#What is the user name associated with the profile
+git config user.name
+
+git config user.email
+git config --global user.name "Leo Walters"
+git user.name
+brew install git
+echo $PATH
+export PATH="/usr/local/git/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:$PATH"
+which git
+/Volumes/Git\ 2.2.1\ Mavericks\ Intel\ Universal/uninstall.sh
+/Users/leo/git/contrib/mw-to-git/bin-wrapper/git ; exit;
+git
+git clone https://github.com/git/git
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+echo $SHELL
+git help
+git user_name
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+touch app.js
+cd javascripts
+cd/..
+touch app.css
+cd stylesheets
+cd stylesheets && touch app.css & cd/..
+mkdir javascripts
+mkdir stylesheets
+touch index.html
+git init
+cd gitDemo/
+mkdir gitDemo
+cd ~/Desktop
+git branch
+git log
+git config --list
+git checkout master
+git root
+cellular data turn off
+cellular
+settings
+git push https://github.com/leoswalters/datasciencecoursera.git master
+git pull https://github.com/leoswalters/datasciencecoursera.git master
+git pull
+git push datasciencecoursera
+git -push HelloWorld.md
+git push HelloWorld.md
+git --help
+git git status
+git push --set upstream datasciencecoursera master
+git push --set upstream origin master
+git push
+git commit -m "Trying commit again"
+git pull origin master
+git push -f origin datasciencecoursera
+git push -f origin https://github.com/leoswalters/datasciencecoursera.git
+git push --set origin master
+git push -set origin master
+git push -f
+git commit -m 'Committing the ReadMe file'
+cd datasciencecoursera
+cd dropbox/MOOCs
+git commit
+git push -u origin master
+git commit HelloWorld.md
+git pull https://github.com/leoswalters/datasciencecoursera HelloWorld.md
+git pull https://github.com/leoswalters/datasciencecoursera.git datasciencecoursera
+git push --set-upstream origin master
+git merge https://github.com/leoswalters/datasciencecoursera datasciencecoursera
+git fetch https://github.com/leoswalters/datasciencecoursera.git
+git fetch https://www.dropbox.com/s/thhfvq0r45a0kyb/Screenshot%20201
+git fetch datasciencecoursera
+git remote -v
+git remote add origin https://github.com/leoswalters/datasciencecoursera.git
+git add HelloWorld.md
+git commit -m "Add HelloWorld.md"
+cd MOOCs
+cd dropbox
+git commit -m "Adding Hellow World file for the Coursera course I'm taking"
+git push --set https://github.com/leoswalters/datasharing.git
+git commit -m "Adding Hello World file for Coursera course"
+git add .
+git add
+git add.
+mv HelloWorld.md datasciencecoursera
+exit
+cd pwd
+mkdir datasciencecoursera
+git -l
+git config
+status
+git config--list
+git config -- list
+log
+lgo
+git remote add origin https://github.com/leoswalters/Data_Science_1.git
+cd test-repo
+mkdir test-repo
+mkdir /test-repo
+git config --global user.email "leoswalters@gmail.com"
+git config --global user.name "LEO"
+git config -global user.name "LEO"
+git help -a
+-a
+$git config --global user.name "Leo"
+$git config - global user.name "Leo"
+$git -global user.name "Leo"
+sudo ln -sf /usr/local/git/bin/git /usr/bin/git
+sudo mv /usr/bin/git /usr/bin/git-xcode
+date
+echo hello world
+ech hello worlds
+echo
+clear
+cd Test
+mkdir Test touch test_file.txt
+cd Windows
+cd..
+pwed
+cd running
+ls -al
+cd users
+ld
+../
+/..
+run sample_history.txt
+sample_history.txt
+ll
+ls -l
+ls
+history > sample_history.txt
+history > "*.txt"
+pwd
+cd ~
+man less
+/git
+H
+less
+history | less
+dig lifeasirun.com
+history
+git status
+subl .
+ls .
+.
+cd leo
+..
+cd ../..
+cd ..
+cd IcoMoon\ Icons/
+cd Web\ Projects/
+cd Dropbox
+cd ../
+cd Public
+ls -R
+man ls
+ls -@
+ls -C
+ls -c
+ls -i
+ls -A
+man cd
+man pwd
+ls -tlr
+ls -rl
+ls -r
+ls -rlt
+ls -lt
+ls -l -t
+ls -t -t
+ls -t -l
+ls -t
+cd /
+cd
+git --version
+git config user.name
+git config user.email
+git config --global user.name "Leo Walters"
+git user.name
+brew install git
+echo $PATH
+export PATH="/usr/local/git/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:$PATH"
+which git
+/Volumes/Git\ 2.2.1\ Mavericks\ Intel\ Universal/uninstall.sh
+/Users/leo/git/contrib/mw-to-git/bin-wrapper/git ; exit;
+git
+git clone https://github.com/git/git
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+echo $SHELL
+git help
+git user_name
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+touch app.js
+cd javascripts
+cd/..
+touch app.css
+cd stylesheets
+cd stylesheets && touch app.css & cd/..
+mkdir javascripts
+mkdir stylesheets
+touch index.html
+git init
+cd gitDemo/
+mkdir gitDemo
+cd ~/Desktop
+git branch
+git log
+git config --list
+git checkout master
+git root
+cellular data turn off
+cellular
+settings
+git push https://github.com/leoswalters/datasciencecoursera.git master
+git pull https://github.com/leoswalters/datasciencecoursera.git master
+git pull
+git push datasciencecoursera
+git -push HelloWorld.md
+git push HelloWorld.md
+git --help
+git git status
+git push --set upstream datasciencecoursera master
+git push --set upstream origin master
+git push
+git commit -m "Trying commit again"
+git pull origin master
+git push -f origin datasciencecoursera
+git push -f origin https://github.com/leoswalters/datasciencecoursera.git
+git push --set origin master
+git push -set origin master
+git push -f
+git commit -m 'Committing the ReadMe file'
+cd datasciencecoursera
+cd dropbox/MOOCs
+git commit
+git push -u origin master
+git commit HelloWorld.md
+git pull https://github.com/leoswalters/datasciencecoursera HelloWorld.md
+git pull https://github.com/leoswalters/datasciencecoursera.git datasciencecoursera
+git push --set-upstream origin master
+git merge https://github.com/leoswalters/datasciencecoursera datasciencecoursera
+git fetch https://github.com/leoswalters/datasciencecoursera.git
+git fetch https://www.dropbox.com/s/thhfvq0r45a0kyb/Screenshot%20201
+git fetch datasciencecoursera
+git remote -v
+git remote add origin https://github.com/leoswalters/datasciencecoursera.git
+git add HelloWorld.md
+git commit -m "Add HelloWorld.md"
+cd MOOCs
+cd dropbox
+git commit -m "Adding Hellow World file for the Coursera course I'm taking"
+git push --set https://github.com/leoswalters/datasharing.git
+git commit -m "Adding Hello World file for Coursera course"
+git add .
+git add
+git add.
+mv HelloWorld.md datasciencecoursera
+exit
+cd pwd
+mkdir datasciencecoursera
+git -l
+git config
+status
+git config--list
+git config -- list
+log
+lgo
+git remote add origin https://github.com/leoswalters/Data_Science_1.git
+cd test-repo
+mkdir test-repo
+mkdir /test-repo
+git config --global user.email "leoswalters@gmail.com"
+git config --global user.name "LEO"
+git config -global user.name "LEO"
+git help -a
+-a
+$git config --global user.name "Leo"
+$git config - global user.name "Leo"
+$git -global user.name "Leo"
+sudo ln -sf /usr/local/git/bin/git /usr/bin/git
+sudo mv /usr/bin/git /usr/bin/git-xcode
+date
+echo hello world
+ech hello worlds
+echo
+clear
+cd Test
+mkdir Test touch test_file.txt
+cd Windows
+cd..
+pwed
+cd running
+ls -al
+cd users
+ld
+../
+/..
+
+
